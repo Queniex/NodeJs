@@ -11,4 +11,4 @@ try {
 }
 
 // menuliskan string ke file (Asynchronous)
-fs.writeFile('')
+fs.writeFile('');
